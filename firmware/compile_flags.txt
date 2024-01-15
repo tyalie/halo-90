@@ -1,0 +1,6 @@
+-D__SDCC=1
+-D__SDCC_VERSION_MAJOR=5
+-D__SDCC_VERSION_MINOR=5
+-D__SDCC_VERSION_PATCH=5
+-D__interrupt(x)=
+-Iinclude
